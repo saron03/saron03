@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saron</h1>
 <h3 align="center">An aspiring techie</h3>
 
-- 🎓 I’m currently working on **getting an engineering degree**
+- 🎓 I’m currently working on **getting a software engineering degree**
 
 - 💻 I’m currently learning **Web development**
 
@@ -15,7 +15,7 @@
   <a href="mailto:saronyitbe@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/saronyitbe" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/saron-tigabu-4b8161213/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
