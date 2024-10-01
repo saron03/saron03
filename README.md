@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saron</h1>
 <h3 align="center">An aspiring techie</h3>
 
-- 🔭 I’m currently working on **getting an engineering degree**
+- 🎓 I’m currently working on **getting an engineering degree**
 
-- 🌱 I’m currently learning **Web development**
+- 💻 I’m currently learning **Web development**
 
-- 👯 I’m looking to collaborate on **Techies**
-
-- 💬 Ask me about **Js**
+- 🤝 I’m looking to collaborate with **fellow tech enthusiasts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
